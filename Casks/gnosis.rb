@@ -1,6 +1,6 @@
 cask "gnosis" do
-  version "0.11.1"
-  sha256 "bf2f0b43a83fbb656df87206479d1ff1bef83837e253a0695119257c67d757bd"
+  version "0.12.0"
+  sha256 "5efb5da2472f6f388b207b8748214385ee90c7a9c796d85ee6c056e667778c22"
 
   url "https://github.com/oddur/gnosis/releases/download/v#{version}/Gnosis-darwin-arm64-#{version}.zip"
   name "Gnosis"
